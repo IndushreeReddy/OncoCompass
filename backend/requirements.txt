@@ -1,0 +1,13 @@
+# API
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+python-multipart>=0.0.6
+
+# Pipeline: filter, TMB, knowledge base (add as you implement)
+pandas>=2.0.0
+
+# PDF report
+weasyprint>=60.0
+
+# Optional: load .env (python-dotenv) if you use it in config
+python-dotenv>=1.0.0
