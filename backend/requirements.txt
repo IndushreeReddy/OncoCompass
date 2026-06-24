@@ -2,8 +2,16 @@
 fastapi>=0.109.0
 uvicorn[standard]>=0.27.0
 python-multipart>=0.0.6
+
+# Pipeline
+# numpy MUST be pinned below 2.0 — packages like pyarrow are compiled
+# against NumPy 1.x and crash at import time on NumPy 2.x.
 numpy<2.0
 pandas>=2.0.0,<3.0.0
 
+# PDF report (WeasyPrint requires GTK+ system libs on Windows;
+# if unavailable the code auto-falls back to HTML + TXT)
 weasyprint>=60.0
+
+# Environment variable loading
 python-dotenv>=1.0.0
