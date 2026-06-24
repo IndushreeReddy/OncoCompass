@@ -1,0 +1,141 @@
+Gene	Variant	Therapy	Evidence_Level	Source
+MET	MET:p.D1010	Capmatinib	IA	Oncokb
+MET	MET:p.D1010	Tepotinib	IA	Oncokb
+KRAS	KRAS:p.G12C	Sotorasib	IA	Oncokb
+KRAS	KRAS:p.G12C	Adagrasib	IA	Oncokb
+ERBB2	ERBB2:p.D769H	Sevabertinib	IA	Oncokb
+ERBB2	ERBB2:p.D769H	Zongertinib	IA	Oncokb
+EGFR	EGFR:p.L858R	Afatinib	IA	Oncokb
+EGFR	EGFR:p.L858R	Amivantamab + Chemotherapy	IA	Oncokb
+EGFR	EGFR:p.L858R	Amivantamab + Lazertinib	IA	Oncokb
+EGFR	EGFR:p.L858R	Dacomitinib	IA	Oncokb
+EGFR	EGFR:p.L858R	Erlotinib	IA	Oncokb
+EGFR	EGFR:p.L858R	Erlotinib + Ramucirumab	IA	Oncokb
+EGFR	EGFR:p.L858R	Gefitinib	IA	Oncokb
+EGFR	EGFR:p.L858R	Osimertinib	IA	Oncokb
+EGFR	EGFR:p.L858R	Osimertinib + Chemotherapy	IA	Oncokb
+EGFR	EGFR:p.G719	Afatinib	IA	Oncokb
+EGFR	EGFR:p.L861Q	Afatinib	IA	Oncokb
+EGFR	EGFR:p.S768I	Afatinib	IA	Oncokb
+EGFR	EGFR:p.T790M	Osimertinib	IA	Oncokb
+BRAF	BRAF:p.V600E	Dabrafenib + Trametinib	IA	Oncokb
+BRAF	BRAF:p.V600E	Encorafenib + Binimetinib	IA	Oncokb
+TMB	TMB >= 10	Pembrolizumab	IA	Oncokb
+ALK	ALK:p.G1202R	Lorlatinib	IA	Oncokb
+ALK	ALK:p.L1196M	Lorlatinib	IA	Oncokb
+EGFR	EGFR:p.G719	Amivantamab + Chemotherapy	IA	Oncokb
+EGFR	EGFR:p.G719	Dacomitinib	IA	Oncokb
+EGFR	EGFR:p.G719	Erlotinib	IA	Oncokb
+EGFR	EGFR:p.G719	Gefitinib	IA	Oncokb
+EGFR	EGFR:p.G719	Osimertinib	IA	Oncokb
+EGFR	EGFR:p.L861Q	Amivantamab + Chemotherapy	IA	Oncokb
+EGFR	EGFR:p.L861Q	Dacomitinib	IA	Oncokb
+EGFR	EGFR:p.L861Q	Erlotinib	IA	Oncokb
+EGFR	EGFR:p.L861Q	Gefitinib	IA	Oncokb
+EGFR	EGFR:p.L861Q	Osimertinib	IA	Oncokb
+EGFR	EGFR:p.S768I	Amivantamab + Chemotherapy	IA	Oncokb
+EGFR	EGFR:p.S768I	Dacomitinib	IA	Oncokb
+EGFR	EGFR:p.S768I	Erlotinib	IA	Oncokb
+EGFR	EGFR:p.S768I	Gefitinib	IA	Oncokb
+EGFR	EGFR:p.S768I	Osimertinib	IA	Oncokb
+MET	MET:p.D1010	Crizotinib	IA	Oncokb
+ALK	ALK:p.G1202R	Neladalkib	IB	Oncokb
+EGFR	EGFR:p.G719	Amivantamab + Lazertinib	IB	Oncokb
+EGFR	EGFR:p.G724S	Afatinib	IB	Oncokb
+EGFR	EGFR:p.L718Q	Afatinib	IB	Oncokb
+EGFR	EGFR:p.L718V	Afatinib	IB	Oncokb
+EGFR	EGFR:p.L861Q	Amivantamab + Lazertinib	IB	Oncokb
+EGFR	EGFR:p.S768I	Amivantamab + Lazertinib	IB	Oncokb
+KRAS	KRAS:p.G12A	Daraxonrasib	IB	Oncokb
+KRAS	KRAS:p.G12D	Daraxonrasib	IB	Oncokb
+KRAS	KRAS:p.G12R	Daraxonrasib	IB	Oncokb
+KRAS	KRAS:p.G12S	Daraxonrasib	IB	Oncokb
+KRAS	KRAS:p.G12V	Daraxonrasib	IB	Oncokb
+KRAS	KRAS:p.G12D	ASP3082	IB	Oncokb
+MET	MET:p.F1200I	Elzovantinib	IB	Oncokb
+MET	MET:p.H1094Y	Elzovantinib	IB	Oncokb
+MET	MET:p.Y1003	Capmatinib	IB	Oncokb
+MET	MET:p.Y1003	Crizotinib	IB	Oncokb
+MET	MET:p.Y1003	Tepotinib	IB	Oncokb
+ROS1	ROS1:p.G2032R	Taletrectinib	IB	Oncokb
+NTRK1	NTRK1:p.G595R	Selitrectinib	IB	Oncokb
+TP53	TP53:p.Y220C	Rezatapopt	IB	Oncokb
+ROS1	ROS1:p.L2086F	Cabozantinib	IB	Oncokb
+EGFR	EGFR:p.D761Y	Osimertinib	IID	Oncokb
+EGFR	EGFR:p.L747P	Afatinib	IID	Oncokb
+BRAF	BRAF:p.G464	Plixorafenib	IID	Oncokb
+BRAF	BRAF:p.G469A	Plixorafenib	IID	Oncokb
+BRAF	BRAF:p.G469R	Plixorafenib	IID	Oncokb
+BRAF	BRAF:p.G469V	Plixorafenib	IID	Oncokb
+BRAF	BRAF:p.K601	Plixorafenib	IID	Oncokb
+BRAF	BRAF:p.L597	Plixorafenib	IID	Oncokb
+KRAS	KRAS:p.G12A	Daraxonrasib	IID	Oncokb
+KRAS	KRAS:p.G12D	Daraxonrasib	IID	Oncokb
+KRAS	KRAS:p.G12R	Daraxonrasib	IID	Oncokb
+KRAS	KRAS:p.G12S	Daraxonrasib	IID	Oncokb
+KRAS	KRAS:p.G12V	Daraxonrasib	IID	Oncokb
+KRAS	KRAS:p.G12D	ASP3082	IID	Oncokb
+KRAS	KRAS:p.G12D	MRTX1133	IID	Oncokb
+KRAS	KRAS:p.G12D	MRTX1133	IID	Oncokb
+MET	MET:p.H1106D	Capmatinib	IID	Oncokb
+MET	MET:p.M1250T	Capmatinib	IID	Oncokb
+MET	MET:p.N1100S	Capmatinib	IID	Oncokb
+MET	MET:p.R1170Q	Capmatinib	IID	Oncokb
+MET	MET:p.V1092I	Capmatinib	IID	Oncokb
+MET	MET:p.H1106D	Elzovantinib	IID	Oncokb
+MET	MET:p.M1250T	Elzovantinib	IID	Oncokb
+MET	MET:p.N1100S	Elzovantinib	IID	Oncokb
+MET	MET:p.R1170Q	Elzovantinib	IID	Oncokb
+MET	MET:p.V1092I	Elzovantinib	IID	Oncokb
+MET	MET:p.H1106D	Tepotinib	IID	Oncokb
+MET	MET:p.M1250T	Tepotinib	IID	Oncokb
+MET	MET:p.N1100S	Tepotinib	IID	Oncokb
+MET	MET:p.R1170Q	Tepotinib	IID	Oncokb
+MET	MET:p.V1092I	Tepotinib	IID	Oncokb
+NTRK1	NTRK1:p.G595R	Zurletrectinib	IID	Oncokb
+NTRK3	NTRK3:p.G623R	Zurletrectinib	IID	Oncokb
+EGFR	EGFR:p.T790M	Afatinib	IA	Oncokb
+EGFR	EGFR:p.T790M	Erlotinib	IA	Oncokb
+EGFR	EGFR:p.T790M	Gefitinib	IA	Oncokb
+NTRK1	NTRK1:p.G595R	Larotrectinib	IA	Oncokb
+NTRK3	NTRK3:p.F617L	Larotrectinib	IA	Oncokb
+NTRK3	NTRK3:p.G623R	Larotrectinib	IA	Oncokb
+NTRK3	NTRK3:p.G696A	Larotrectinib	IA	Oncokb
+ALK	ALK:p.C1156Y	Crizotinib	IID	Oncokb
+ALK	ALK:p.G1202R	Alectinib	IID	Oncokb
+ALK	ALK:p.G1202R	Brigatinib	IID	Oncokb
+ALK	ALK:p.G1202R	Ceritinib	IID	Oncokb
+ALK	ALK:p.G1202R	Crizotinib	IID	Oncokb
+ALK	ALK:p.G1269A	Crizotinib	IID	Oncokb
+ALK	ALK:p.I1171N	Alectinib	IID	Oncokb
+ALK	ALK:p.L1196M	Crizotinib	IID	Oncokb
+EGFR	EGFR:p.C797G	Osimertinib	IID	Oncokb
+EGFR	EGFR:p.C797S	Osimertinib	IID	Oncokb
+EGFR	EGFR:p.D761Y	Gefitinib	IID	Oncokb
+EGFR	EGFR:p.G724S	Osimertinib	IID	Oncokb
+EGFR	EGFR:p.L718Q	Osimertinib	IID	Oncokb
+EGFR	EGFR:p.L718Q	Osimertinib	IID	Oncokb
+EGFR	EGFR:p.L718V	Osimertinib	IID	Oncokb
+EGFR	EGFR:p.L792F	Osimertinib	IID	Oncokb
+EGFR	EGFR:p.L792H	Osimertinib	IID	Oncokb
+MET	MET:p.D1228N	Cabozantinib	IID	Oncokb
+MET	MET:p.Y1230H	Capmatinib	IID	Oncokb
+MET	MET:p.Y1230H	Crizotinib	IID	Oncokb
+NTRK1	NTRK1:p.G595R	Entrectinib	IID	Oncokb
+ROS1	ROS1:p.G2032R	Crizotinib	IID	Oncokb
+ROS1	ROS1:p.G2032R	Lorlatinib	IID	Oncokb
+ROS1	ROS1:p.L2086F	Lorlatinib	IID	Oncokb
+ROS1	ROS1:p.L2086F	Repotrectinib	IID	Oncokb
+EGFR	EGFR:p.E746_A750del	Osimertinib	IA	Cosmic
+EGFR	EGFR:p.E746_A750del	Erlotinib	IA	Cosmic
+EGFR	EGFR:p.E746_A750del	Afatinib	IA	Cosmic
+EGFR	EGFR:p.E746_A750del	Gefitinib	IA	Cosmic
+EGFR	EGFR:p.T790M	Osimertinib	IA	Cosmic
+BRAF	BRAF:p.V600E	Dabrafenib + Trametinib	IA	Cosmic
+PIK3CA	PIK3CA:p.E545K	PI3K inhibitors	IID	Cosmic
+PIK3CA	PIK3CA:p.H1047R	PI3K inhibitors	IID	Cosmic
+DDR2	DDR2:p.S768R	Dasatinib (investigational)	IID	Cosmic
+STK11	STK11:p.W332*	Bemcentinib + Pembrolizumab	IID	Oncokb
+SMARCA4	SMARCA4:p.K1566N	PRT3789	IB	Oncokb
+SMARCA4	SMARCA4:p.E1567*	PRT3789	IB	Oncokb
+TP53	TP53:p.V218del	Rezatapopt	IB	Oncokb

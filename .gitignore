@@ -1,0 +1,46 @@
+# Runtime directories (job uploads, results, reports)
+uploads/
+results/
+reports/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+*.egg-info/
+dist/
+build/
+
+# Environment variables (never commit real secrets)
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+.cursor/debug.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Internal planning docs (not useful for end users)
+plan.md
+to-do.md

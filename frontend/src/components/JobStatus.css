@@ -1,0 +1,194 @@
+.job-status {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 40px;
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  animation: fadeIn 0.3s ease-in;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.job-status h2 {
+  margin-top: 0;
+  color: #2c3e50;
+}
+
+.job-info {
+  margin-bottom: 20px;
+}
+
+.job-id {
+  font-size: 0.9em;
+  color: #555;
+}
+
+.job-id code {
+  background: #f0f0f0;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-family: monospace;
+  font-size: 0.9em;
+}
+
+.status-badge {
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 20px;
+  font-weight: 600;
+  margin-bottom: 20px;
+  font-size: 1.1em;
+}
+
+.status-pending {
+  background: #fff3cd;
+  color: #856404;
+}
+
+.status-running {
+  background: #d1ecf1;
+  color: #0c5460;
+  animation: pulse 2s infinite;
+}
+
+.status-completed {
+  background: #d4edda;
+  color: #155724;
+}
+
+.status-failed {
+  background: #f8d7da;
+  color: #721c24;
+}
+
+.status-loading {
+  background: #e2e3e5;
+  color: #383d41;
+}
+
+.status-error {
+  background: #f8d7da;
+  color: #721c24;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.7;
+  }
+}
+
+.progress-message {
+  margin: 15px 0;
+  padding: 12px;
+  background: #e8f4f8;
+  border-left: 4px solid #3498db;
+  border-radius: 4px;
+}
+
+.progress-message p {
+  margin: 0;
+  color: #2980b9;
+}
+
+.tmb-info {
+  margin: 20px 0;
+  padding: 15px;
+  background: #f8f9fa;
+  border-radius: 4px;
+}
+
+.tmb-info h3 {
+  margin-top: 0;
+  color: #2c3e50;
+  font-size: 1.1em;
+}
+
+.tmb-info p {
+  margin: 8px 0;
+  color: #555;
+}
+
+.variant-info {
+  margin: 15px 0;
+  padding: 12px;
+  background: #f8f9fa;
+  border-radius: 4px;
+}
+
+.variant-info p {
+  margin: 0;
+  color: #555;
+}
+
+.download-section {
+  margin: 25px 0;
+}
+
+.download-button {
+  width: 100%;
+  padding: 14px 24px;
+  background: #27ae60;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-size: 1.1em;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.download-button:hover:not(:disabled) {
+  background: #229954;
+}
+
+.download-button:disabled {
+  background: #95a5a6;
+  cursor: not-allowed;
+}
+
+.error-section {
+  margin: 20px 0;
+  padding: 15px;
+  background: #fee;
+  border: 1px solid #fcc;
+  border-radius: 4px;
+}
+
+.error-message {
+  margin: 0;
+  color: #c33;
+  font-weight: 500;
+}
+
+.actions {
+  margin-top: 30px;
+  padding-top: 20px;
+  border-top: 1px solid #e0e0e0;
+}
+
+.reset-button {
+  padding: 10px 20px;
+  background: #6c757d;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.reset-button:hover {
+  background: #5a6268;
+}
