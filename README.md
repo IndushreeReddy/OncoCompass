@@ -3,7 +3,9 @@
 A precision oncology platform that analyzes cancer genomic data and provides personalized therapy recommendations based on clinically relevant variants.
 
 ## Quick Start
-
+1. Download or clone this repo
+2. Double-click `setup.bat` (Windows) or run `bash setup.sh` (Mac/Linux)
+3. That's it — it installs everything automatically
 ### Prerequisites
 
 - **Python 3.10+** (for backend)
